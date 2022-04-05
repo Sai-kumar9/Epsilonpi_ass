@@ -1,2 +1,2 @@
-# Epsilonpi_ass
+# Epsilonpi
 Repository for epsilonpi
