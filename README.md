@@ -1,2 +1,2 @@
-# Epsilonpi_ass
+# Epsilonpi_assessment
 Repository for epsilonpi
