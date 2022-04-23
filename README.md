@@ -1,2 +1,1 @@
-# Epsilonpi
 Repository for epsilonpi
